@@ -1,3 +1,3 @@
 # dotnetApi
 
-Estudos com .NET desenvolvendo arquitetura DDD.
+Estudos com .NET desenvolvendo arquitetura DDD(Domain Drive Design).
